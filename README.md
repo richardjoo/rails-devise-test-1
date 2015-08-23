@@ -13,9 +13,17 @@ devise test 1
   * ruby 2.2.2
   * bundler
 
-## Work Logs
-  * Work logs can be found under
+## Prodject Documents
+  * Work logs
     * vendor/project/worklog.md
+  * backlog
+    * vendor/project/backlog.md
+  * sprint
+    * vendor/project/sprint.md
+  * pending
+    * vendor/project/pending.md
+  * completed
+    * vendor/project/completed.md
 
 <!-- links -->
 [code climate]: https://codeclimate.com/github/richardjoo/rails-devise-test-1 "build status"
