@@ -1,5 +1,8 @@
 ## work history
-* 2015-08-21 created an app
+* Sunday, 2015-08-23
+  * Gemfile updated and organized
+
+* Friday, 2015-08-21 created an app
   * created a new repo under github.com
   * rails new rails-devise-test-1
   * git init
