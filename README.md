@@ -2,15 +2,17 @@ rails-devise-test-1 [![build status][code climate image]][code climate] [![code 
 ==============
 
 devise test 1
+site is setup with blog tutorial from http://guides.rubyonrails.org/getting_started.html
+after this, I will add devise.
 
 ## Maintenance
-  README updated on Friday, 2015-08-21
+  README updated on Friday, 2016-03-03
 
 ## Master Branch:
-  A rails 4.2.3 application
+  A rails 4.2.5.1 application
 
 ## Pre-requisites
-  * ruby 2.2.2
+  * ruby 2.3.0
   * bundler
 
 ## Prodject Documents
