@@ -11,6 +11,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'puma'
 gem 'turbolinks'
+gem 'devise'
 
 group :production, :staging do
   # gem 'dalli'
@@ -43,12 +44,12 @@ group :development, :test do
 end
 
 group :test do
-  # gem 'capybara'
+  gem 'capybara'
+  gem 'poltergeist'
   gem 'codeclimate-test-reporter', require: false
   # gem 'database_cleaner'
   # gem 'factory_girl_rails'
   # gem 'launchy'
-  # gem 'poltergeist'
   # gem 'rspec-its'
   # gem 'simplecov', require: false
   # gem 'syntax'
