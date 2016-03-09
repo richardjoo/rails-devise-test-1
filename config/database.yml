@@ -12,7 +12,7 @@ development:
 
 test:
   <<: *default
-  database: devise1_test %>
+  database: devise1_test
   username: sa
   password: $wordf1sh
   host: localhost
